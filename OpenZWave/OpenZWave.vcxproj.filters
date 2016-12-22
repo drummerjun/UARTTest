@@ -1,0 +1,690 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tga;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="AES">
+      <UniqueIdentifier>{deae8112-c698-4c43-a7cb-d7829f1753b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Command Classes">
+      <UniqueIdentifier>{db329a06-d945-4ab1-949c-5923296c75ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HIDAPI">
+      <UniqueIdentifier>{fca957cb-1a84-487f-9efa-e7712c90a1d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platform">
+      <UniqueIdentifier>{d39d7f04-ce87-44ed-8218-1f9d2365cbe6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TinyXML">
+      <UniqueIdentifier>{5786d35c-3a26-4b84-b0fe-e625fd46f88f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Value Classes">
+      <UniqueIdentifier>{420f9a6b-fb3f-43fc-8ddc-7b150ffa0d5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{2de1557e-a67b-4578-9cf3-c1e37f44d8de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platform\windows">
+      <UniqueIdentifier>{c45acc07-9d58-484b-b314-0abb534f8fac}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="aes\aes_modes.c">
+      <Filter>AES</Filter>
+    </ClCompile>
+    <ClCompile Include="aes\aescrypt.c">
+      <Filter>AES</Filter>
+    </ClCompile>
+    <ClCompile Include="aes\aeskey.c">
+      <Filter>AES</Filter>
+    </ClCompile>
+    <ClCompile Include="aes\aestab.c">
+      <Filter>AES</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Alarm.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\ApplicationStatus.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Association.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\AssociationCommandConfiguration.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Basic.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\BasicWindowCovering.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Battery.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\CentralScene.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\ClimateControlSchedule.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Clock.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Color.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\CommandClass.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\CommandClasses.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Configuration.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\ControllerReplication.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\CRC16Encap.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\DeviceResetLocally.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\DoorLock.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\DoorLockLogging.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\EnergyProduction.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Hail.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Indicator.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Language.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Lock.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\ManufacturerSpecific.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Meter.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\MeterPulse.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\MultiCmd.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\MultiInstance.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\MultiInstanceAssociation.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\NodeNaming.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\NoOperation.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Powerlevel.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Proprietary.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Protection.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\SceneActivation.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Security.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\SensorAlarm.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\SensorBinary.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\SensorMultilevel.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\SwitchAll.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\SwitchBinary.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\SwitchMultilevel.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\SwitchToggleBinary.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\SwitchToggleMultilevel.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\ThermostatFanMode.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\ThermostatFanState.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\ThermostatMode.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\ThermostatOperatingState.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\ThermostatSetpoint.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\TimeParameters.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\UserCode.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\Version.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\WakeUp.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="command_classes\ZWavePlusInfo.cpp">
+      <Filter>Command Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Driver.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Group.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Msg.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Notification.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Options.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="vers.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="ZWSecurity.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\Controller.cpp">
+      <Filter>Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\Event.cpp">
+      <Filter>Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\FileOps.cpp">
+      <Filter>Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\HidController.cpp">
+      <Filter>Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\Log.cpp">
+      <Filter>Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\Mutex.cpp">
+      <Filter>Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\SerialController.cpp">
+      <Filter>Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\Stream.cpp">
+      <Filter>Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\Thread.cpp">
+      <Filter>Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\TimeStamp.cpp">
+      <Filter>Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\Wait.cpp">
+      <Filter>Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\windows\EventImpl.cpp">
+      <Filter>Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\windows\FileOpsImpl.cpp">
+      <Filter>Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\windows\LogImpl.cpp">
+      <Filter>Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\windows\MutexImpl.cpp">
+      <Filter>Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\windows\SerialControllerImpl.cpp">
+      <Filter>Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\windows\ThreadImpl.cpp">
+      <Filter>Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\windows\TimeStampImpl.cpp">
+      <Filter>Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="platform\windows\WaitImpl.cpp">
+      <Filter>Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="value_classes\Value.cpp">
+      <Filter>Value Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="value_classes\ValueBool.cpp">
+      <Filter>Value Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="value_classes\ValueButton.cpp">
+      <Filter>Value Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="value_classes\ValueByte.cpp">
+      <Filter>Value Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="value_classes\ValueDecimal.cpp">
+      <Filter>Value Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="value_classes\ValueInt.cpp">
+      <Filter>Value Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="value_classes\ValueList.cpp">
+      <Filter>Value Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="value_classes\ValueRaw.cpp">
+      <Filter>Value Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="value_classes\ValueSchedule.cpp">
+      <Filter>Value Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="value_classes\ValueShort.cpp">
+      <Filter>Value Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="value_classes\ValueStore.cpp">
+      <Filter>Value Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="value_classes\ValueString.cpp">
+      <Filter>Value Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\tinyxml\tinystr.cpp">
+      <Filter>TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\tinyxml\tinyxml.cpp">
+      <Filter>TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\tinyxml\tinyxmlerror.cpp">
+      <Filter>TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\tinyxml\tinyxmlparser.cpp">
+      <Filter>TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\hidapi\windows\hid.cpp">
+      <Filter>HIDAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenZWave.cpp" />
+    <ClCompile Include="pch.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="aes\aes.h">
+      <Filter>AES</Filter>
+    </ClInclude>
+    <ClInclude Include="aes\aesopt.h">
+      <Filter>AES</Filter>
+    </ClInclude>
+    <ClInclude Include="aes\aestab.h">
+      <Filter>AES</Filter>
+    </ClInclude>
+    <ClInclude Include="aes\brg_endian.h">
+      <Filter>AES</Filter>
+    </ClInclude>
+    <ClInclude Include="aes\brg_types.h">
+      <Filter>AES</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Alarm.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\ApplicationStatus.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Association.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\AssociationCommandConfiguration.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Basic.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\BasicWindowCovering.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Battery.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\CentralScene.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\ClimateControlSchedule.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Clock.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Color.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\CommandClass.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\CommandClasses.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Configuration.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\ControllerReplication.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\CRC16Encap.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\DeviceResetLocally.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\DoorLock.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\DoorLockLogging.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\EnergyProduction.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Hail.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Indicator.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Language.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Lock.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\ManufacturerSpecific.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Meter.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\MeterPulse.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\MultiCmd.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\MultiInstance.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\MultiInstanceAssociation.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\NodeNaming.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\NoOperation.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Powerlevel.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Proprietary.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Protection.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\SceneActivation.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Security.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\SensorAlarm.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\SensorBinary.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\SensorMultilevel.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\SwitchAll.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\SwitchBinary.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\SwitchMultilevel.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\SwitchToggleBinary.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\SwitchToggleMultilevel.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\ThermostatFanMode.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\ThermostatFanState.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\ThermostatMode.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\ThermostatOperatingState.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\ThermostatSetpoint.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\TimeParameters.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\UserCode.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\Version.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\WakeUp.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="command_classes\ZWavePlusInfo.h">
+      <Filter>Command Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Bitfield.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Defs.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="DoxygenMain.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Driver.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Group.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Msg.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Notification.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Options.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="OZWException.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="ZWSecurity.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\Controller.h">
+      <Filter>Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\Event.h">
+      <Filter>Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\FileOps.h">
+      <Filter>Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\HidController.h">
+      <Filter>Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\Log.h">
+      <Filter>Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\Mutex.h">
+      <Filter>Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\Ref.h">
+      <Filter>Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\SerialController.h">
+      <Filter>Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\Stream.h">
+      <Filter>Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\Thread.h">
+      <Filter>Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\TimeStamp.h">
+      <Filter>Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\Wait.h">
+      <Filter>Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\windows\EventImpl.h">
+      <Filter>Platform\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\windows\FileOpsImpl.h">
+      <Filter>Platform\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\windows\LogImpl.h">
+      <Filter>Platform\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\windows\MutexImpl.h">
+      <Filter>Platform\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\windows\SerialControllerImpl.h">
+      <Filter>Platform\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\windows\ThreadImpl.h">
+      <Filter>Platform\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\windows\TimeStampImpl.h">
+      <Filter>Platform\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="platform\windows\WaitImpl.h">
+      <Filter>Platform\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="value_classes\Value.h">
+      <Filter>Value Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="value_classes\ValueBool.h">
+      <Filter>Value Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="value_classes\ValueButton.h">
+      <Filter>Value Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="value_classes\ValueByte.h">
+      <Filter>Value Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="value_classes\ValueDecimal.h">
+      <Filter>Value Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="value_classes\ValueID.h">
+      <Filter>Value Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="value_classes\ValueInt.h">
+      <Filter>Value Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="value_classes\ValueList.h">
+      <Filter>Value Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="value_classes\ValueRaw.h">
+      <Filter>Value Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="value_classes\ValueSchedule.h">
+      <Filter>Value Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="value_classes\ValueShort.h">
+      <Filter>Value Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="value_classes\ValueStore.h">
+      <Filter>Value Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="value_classes\ValueString.h">
+      <Filter>Value Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\tinyxml\tinystr.h">
+      <Filter>TinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="..\tinyxml\tinyxml.h">
+      <Filter>TinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="..\hidapi\hidapi\hidapi.h">
+      <Filter>HIDAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenZWave.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="targetver.h" />
+  </ItemGroup>
+</Project>
