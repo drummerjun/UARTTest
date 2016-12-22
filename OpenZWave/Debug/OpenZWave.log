@@ -1,0 +1,957 @@
+﻿  hid.cpp
+  tinystr.cpp
+  tinyxmlparser.cpp
+  Alarm.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinystr.cpp(116): fatal error C1020: unexpected #endif
+  ApplicationStatus.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\applicationstatus.cpp(35): error C2871: 'OpenZWave': a namespace with this name does not exist
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\applicationstatus.cpp(48): error C2653: 'ApplicationStatus': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\applicationstatus.cpp(50): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\applicationstatus.cpp(50): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\applicationstatus.cpp(54): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\applicationstatus.cpp(54): error C2447: '{': missing function header (old-style formal list?)
+  Association.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinyxmlparser.cpp(854): error C2039: 'nothrow': is not a member of 'std'
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stddef.h(18): note: see declaration of 'std'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinyxmlparser.cpp(854): error C2065: 'nothrow': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinyxmlparser.cpp(861): error C2039: 'nothrow': is not a member of 'std'
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stddef.h(18): note: see declaration of 'std'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinyxmlparser.cpp(861): error C2065: 'nothrow': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinyxmlparser.cpp(868): error C2039: 'nothrow': is not a member of 'std'
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stddef.h(18): note: see declaration of 'std'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinyxmlparser.cpp(868): error C2065: 'nothrow': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinyxmlparser.cpp(877): error C2039: 'nothrow': is not a member of 'std'
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stddef.h(18): note: see declaration of 'std'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinyxmlparser.cpp(877): error C2065: 'nothrow': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinyxmlparser.cpp(885): error C2039: 'nothrow': is not a member of 'std'
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stddef.h(18): note: see declaration of 'std'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinyxmlparser.cpp(885): error C2065: 'nothrow': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinyxmlparser.cpp(892): error C2039: 'nothrow': is not a member of 'std'
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stddef.h(18): note: see declaration of 'std'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinyxmlparser.cpp(892): error C2065: 'nothrow': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinyxmlparser.cpp(1140): error C2039: 'nothrow': is not a member of 'std'
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stddef.h(18): note: see declaration of 'std'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinyxmlparser.cpp(1140): error C2065: 'nothrow': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinyxmlparser.cpp(1191): error C2039: 'nothrow': is not a member of 'std'
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stddef.h(18): note: see declaration of 'std'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\tinyxml\tinyxmlparser.cpp(1191): error C2065: 'nothrow': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(38): error C2871: 'OpenZWave': a namespace with this name does not exist
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(55): error C2653: 'Association': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(57): error C2065: 'uint32': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(57): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(60): error C2065: '_homeId': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(60): error C2065: '_nodeId': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(60): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(60): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(60): note: The initializer contains too many elements
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\hidapi\windows\hid.cpp(63): fatal error C1083: Cannot open include file: 'hidapi.h': No such file or directory
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(61): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(62): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(63): error C2448: 'm_numGroups': function-style initializer appears to be a function definition
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(71): error C2653: 'Association': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(73): error C2065: 'TiXmlElement': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(73): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(75): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(75): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(113): error C2653: 'Association': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(115): error C2065: 'TiXmlElement': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(116): error C2065: '_ccElement': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(116): error C2182: 'WriteXML': illegal use of type 'void'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(117): error C2448: 'WriteXML': function-style initializer appears to be a function definition
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(137): error C2653: 'Association': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(139): error C2065: 'uint32': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(139): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(141): error C2653: 'Driver': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(143): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(143): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(157): error C2653: 'Association': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(159): error C2065: 'uint32': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(159): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(162): error C2653: 'Driver': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(164): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(164): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(185): error C2653: 'Association': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(187): error C2065: 'uint32': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(187): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(189): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(189): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(211): error C2653: 'Association': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(213): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(213): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(217): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(217): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(322): error C2653: 'Association': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(324): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(324): error C2146: syntax error: missing ')' before identifier '_groupIdx'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(327): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(327): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(349): error C2653: 'Association': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(351): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(351): error C2146: syntax error: missing ')' before identifier '_groupIdx'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(354): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(354): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(372): error C2653: 'Association': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(374): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(374): error C2146: syntax error: missing ')' before identifier '_groupIdx'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(377): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\association.cpp(377): error C2447: '{': missing function header (old-style formal list?)
+  AssociationCommandConfiguration.cpp
+  Basic.cpp
+  BasicWindowCovering.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(40): error C2871: 'OpenZWave': a namespace with this name does not exist
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(65): error C2653: 'AssociationCommandConfiguration': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(67): error C2065: 'uint32': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(67): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(69): error C2653: 'Driver': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(71): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(71): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(84): error C2653: 'AssociationCommandConfiguration': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(86): error C2065: 'uint32': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(86): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(89): error C2653: 'Driver': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(91): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(91): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(112): error C2653: 'AssociationCommandConfiguration': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(114): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(114): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(117): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(117): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(137): error C2653: 'AssociationCommandConfiguration': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(139): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(139): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(143): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(143): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(235): error C2653: 'AssociationCommandConfiguration': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(237): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(237): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(239): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(239): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(254): error C2653: 'AssociationCommandConfiguration': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(256): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(256): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(261): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\associationcommandconfiguration.cpp(261): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(43): error C2871: 'OpenZWave': a namespace with this name does not exist
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(56): error C2653: 'Basic': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(58): error C2065: 'uint32': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(58): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(61): error C2065: '_homeId': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(61): error C2065: '_nodeId': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(61): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(61): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(61): note: The initializer contains too many elements
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(62): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(64): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(65): error C2448: 'm_setAsReport': function-style initializer appears to be a function definition
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(72): error C2653: 'Basic': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(74): error C2065: 'TiXmlElement': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(74): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(76): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(76): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(105): error C2653: 'Basic': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(107): error C2065: 'TiXmlElement': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(108): error C2065: '_ccElement': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(108): error C2182: 'WriteXML': illegal use of type 'void'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(109): error C2448: 'WriteXML': function-style initializer appears to be a function definition
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(134): error C2653: 'Basic': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(136): error C2065: 'uint32': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(136): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(138): error C2653: 'Driver': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(140): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(140): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(153): error C2653: 'Basic': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(155): error C2065: 'uint32': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(155): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(158): error C2653: 'Driver': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(160): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(160): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(182): error C2653: 'Basic': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(184): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(184): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(188): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(188): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(242): error C2653: 'Basic': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(244): error C2065: 'Value': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basicwindowcovering.cpp(37): error C2871: 'OpenZWave': a namespace with this name does not exist
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(244): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(246): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basicwindowcovering.cpp(55): error C2653: 'BasicWindowCovering': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(246): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basicwindowcovering.cpp(57): error C2065: 'Value': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(271): error C2653: 'Basic': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basicwindowcovering.cpp(57): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(273): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basicwindowcovering.cpp(59): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(273): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basicwindowcovering.cpp(59): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(275): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basicwindowcovering.cpp(107): error C2653: 'BasicWindowCovering': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(275): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basicwindowcovering.cpp(109): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(283): error C2653: 'Basic': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basicwindowcovering.cpp(109): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(285): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basicwindowcovering.cpp(111): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(285): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basicwindowcovering.cpp(111): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(287): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(287): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(301): error C2653: 'Basic': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(303): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(303): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(306): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\basic.cpp(306): error C2447: '{': missing function header (old-style formal list?)
+  Battery.cpp
+  CentralScene.cpp
+  ClimateControlSchedule.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\centralscene.cpp(37): fatal error C1083: Cannot open include file: 'tinyxml.h': No such file or directory
+  Clock.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\climatecontrolschedule.cpp(39): fatal error C1083: Cannot open include file: 'tinyxml.h': No such file or directory
+  Color.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(97): error C2653: 'Alarm': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(101): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(103): error C2550: 'Alarm': constructor initializer lists are only allowed on constructor definitions
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(104): error C2065: 'StaticRequest_Values': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(104): error C3861: 'SetStaticRequest': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(105): warning C4508: 'Alarm': function should return a value; 'void' return type assumed
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(112): error C2653: 'Alarm': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(116): error C2027: use of undefined type 'OpenZWave::Driver'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valueid.h(56): note: see declaration of 'OpenZWave::Driver'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(116): error C2061: syntax error: identifier 'MsgQueue'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(119): error C2065: 'RequestFlag_Static': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(119): error C2065: 'StaticRequest_Values': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(119): error C3861: 'HasStaticRequest': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(121): error C3861: 'GetVersion': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(124): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(124): error C3861: 'GetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(124): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg' (compiling source file command_classes\Alarm.cpp)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(125): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(125): error C2227: left of '->SetInstance' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(125): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(126): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(126): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(126): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(127): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(127): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(128): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(128): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(128): error C3861: 'GetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(129): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(129): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(130): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(130): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(130): error C3861: 'GetDriver': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(130): error C2227: left of '->GetTransmitOptions' must point to class/struct/union/generic type
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(130): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(131): error C3861: 'GetDriver': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(131): error C2227: left of '->SendMsg' must point to class/struct/union/generic type
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(131): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(131): error C2065: '_queue': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(136): error C2065: 'RequestFlag_Dynamic': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(138): error C2065: '_queue': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(138): error C3861: 'RequestValue': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(148): error C2653: 'Alarm': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(153): error C2027: use of undefined type 'OpenZWave::Driver'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valueid.h(56): note: see declaration of 'OpenZWave::Driver'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(153): error C2061: syntax error: identifier 'MsgQueue'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(156): error C3861: 'IsGetSupported': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(158): error C3861: 'GetVersion': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(160): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(160): error C3861: 'GetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(160): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg' (compiling source file command_classes\Alarm.cpp)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(161): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(161): error C2227: left of '->SetInstance' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(161): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(162): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(162): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(162): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(163): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(163): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(164): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(164): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(164): error C3861: 'GetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(165): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(165): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(166): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(166): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(166): error C3861: 'GetDriver': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(166): error C2227: left of '->GetTransmitOptions' must point to class/struct/union/generic type
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(166): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(167): error C3861: 'GetDriver': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(167): error C2227: left of '->SendMsg' must point to class/struct/union/generic type
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(167): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(167): error C2065: '_queue': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(175): error C3861: 'GetValue': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(177): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(177): error C3861: 'GetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(177): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg' (compiling source file command_classes\Alarm.cpp)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(178): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(178): error C2227: left of '->SetInstance' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(178): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(179): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(179): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(179): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(180): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(180): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(180): error C3861: 'GetVersion': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(181): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(181): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(181): error C3861: 'GetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(182): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(182): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(183): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(183): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(184): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(184): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(185): error C3861: 'GetVersion': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(186): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(186): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(187): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(187): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(187): error C3861: 'GetDriver': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(187): error C2227: left of '->GetTransmitOptions' must point to class/struct/union/generic type
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(187): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(188): error C3861: 'GetDriver': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(188): error C2227: left of '->SendMsg' must point to class/struct/union/generic type
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(188): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(188): error C2065: '_queue': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(195): error C2653: 'Log': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(195): error C2065: 'LogLevel_Info': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(195): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(195): error C3861: 'Write': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\alarm.cpp(195): fatal error C1003: error count exceeds 100; stopping compilation
+  CommandClass.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(42): error C2871: 'OpenZWave': a namespace with this name does not exist
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(44): error C2143: syntax error: missing ';' before 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(45): error C2143: syntax error: missing ';' before 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(45): error C2086: 'int uint8': redefinition
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(44): note: see declaration of 'uint8'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(46): error C2143: syntax error: missing ';' before 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(46): error C2086: 'int uint8': redefinition
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(44): note: see declaration of 'uint8'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(47): error C2143: syntax error: missing ';' before 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(47): error C2086: 'int uint8': redefinition
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(44): note: see declaration of 'uint8'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(48): error C2143: syntax error: missing ';' before 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(48): error C2086: 'int uint8': redefinition
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(44): note: see declaration of 'uint8'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(54): error C2653: 'CommandClass': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(56): error C2065: 'uint32': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(56): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(59): error C2065: '_homeId': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(59): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(60): error C2065: '_nodeId': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(60): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(61): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(62): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(64): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(66): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(67): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(68): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(69): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(70): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(71): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(72): error C2448: 'm_receivedCnt': function-style initializer appears to be a function definition
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(79): error C2653: 'CommandClass': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(82): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(83): error C2065: 'm_endPointMap': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(83): error C2228: left of '.empty' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(83): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(85): error C2065: 'map': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(85): error C2039: 'iterator': is not a member of '`global namespace''
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(85): error C2065: 'iterator': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(85): error C2146: syntax error: missing ';' before identifier 'it'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(85): error C2065: 'it': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(85): error C2065: 'm_endPointMap': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(85): error C2228: left of '.begin' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(85): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(86): error C2065: 'm_endPointMap': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(86): error C2228: left of '.erase' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(86): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(86): error C2065: 'it': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(88): error C2065: 'm_RefreshClassValues': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(88): error C2228: left of '.empty' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(88): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(90): error C2065: 'm_RefreshClassValues': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(90): error C2228: left of '.size' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(90): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(92): error C2065: 'RefreshValue': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(92): error C2065: 'rcc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(92): error C2065: 'm_RefreshClassValues': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(92): error C2228: left of '.at' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(92): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(93): error C2065: 'rcc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(93): error C2227: left of '->RefreshClasses' must point to class/struct/union/generic type
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(93): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(93): error C2228: left of '.empty' must have class/struct/union
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(94): error C2065: 'rcc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(94): error C2227: left of '->RefreshClasses' must point to class/struct/union/generic type
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(94): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(94): error C2228: left of '.back' must have class/struct/union
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(95): error C2065: 'rcc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(95): error C2227: left of '->RefreshClasses' must point to class/struct/union/generic type
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(95): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(95): error C2228: left of '.pop_back' must have class/struct/union
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(101): error C2065: 'rcc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(101): error C2227: left of '->RefreshClasses' must point to class/struct/union/generic type
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(101): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(101): error C2228: left of '.clear' must have class/struct/union
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(102): error C2065: 'rcc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(102): error C2541: 'delete': cannot delete objects that are not pointers
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(104): error C2065: 'm_RefreshClassValues': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(104): error C2228: left of '.clear' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(104): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(107): warning C4508: 'CommandClass': function should return a value; 'void' return type assumed
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(113): error C2143: syntax error: missing ';' before '*'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(113): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(113): error C2653: 'CommandClass': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(116): error C2270: 'GetDriver': modifiers not allowed on nonmember functions
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(116): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(116): error C2059: syntax error: '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(116): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(116): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(124): error C2143: syntax error: missing ';' before '*'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(124): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(124): error C2653: 'CommandClass': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(127): error C2270: 'GetNodeUnsafe': modifiers not allowed on nonmember functions
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(127): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(127): error C2059: syntax error: '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(127): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(127): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(135): error C2143: syntax error: missing ';' before '*'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(135): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(135): error C2653: 'CommandClass': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(137): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(140): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(140): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(153): error C2653: 'CommandClass': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(155): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(158): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(158): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(170): error C2653: 'CommandClass': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(172): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(174): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(174): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(189): error C2653: 'CommandClass': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(191): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(193): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(193): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(208): error C2653: 'CommandClass': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(210): error C2065: 'TiXmlElement': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(210): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(212): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(212): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(323): error C2653: 'CommandClass': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(325): error C2065: 'TiXmlElement': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(325): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(327): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(327): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(389): error C2653: 'CommandClass': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(390): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(392): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(392): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(431): error C2653: 'CommandClass': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(433): error C2065: 'TiXmlElement': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(434): error C2065: '_ccElement': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(434): error C2182: 'WriteXML': illegal use of type 'void'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(435): error C2448: 'WriteXML': function-style initializer appears to be a function definition
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclass.cpp(435): fatal error C1003: error count exceeds 100; stopping compilation
+  CommandClasses.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(106): error C2653: 'CommandClasses': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(109): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(110): error C2065: 'm_commandClassCreators': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(110): error C2065: 'pfnCreateCommandClass_t': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(111): error C2065: 'm_supportedCommandClasses': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(111): error C2065: 'uint32': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(112): warning C4508: 'CommandClasses': function should return a value; 'void' return type assumed
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(118): error C2653: 'CommandClasses': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(120): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(120): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(122): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(122): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(126): error C2653: 'CommandClasses': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(126): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(126): error C2146: syntax error: missing ';' before identifier 'GetName'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(129): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(129): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(140): error C2653: 'CommandClasses': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(142): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(142): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(146): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(146): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(159): error C2143: syntax error: missing ';' before '*'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(159): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(159): error C2653: 'CommandClasses': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(161): error C2065: 'uint8': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(161): error C2059: syntax error: 'const'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(165): error C2143: syntax error: missing ';' before '{'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(165): error C2447: '{': missing function header (old-style formal list?)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(181): error C2653: 'CommandClasses': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(185): error C2065: 'cc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(185): error C3861: 'Get': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(186): error C2065: 'cc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(186): error C2228: left of '.Register' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(186): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(186): error C2653: 'Alarm': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(186): error C3861: 'StaticGetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(186): error C3861: 'StaticGetCommandClassName': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(186): error C2065: 'Create': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(187): error C2065: 'cc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(187): error C2228: left of '.Register' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(187): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(187): error C2653: 'ApplicationStatus': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(187): error C3861: 'StaticGetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(187): error C3861: 'StaticGetCommandClassName': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(187): error C2065: 'Create': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(188): error C2065: 'cc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(188): error C2228: left of '.Register' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(188): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(188): error C2653: 'Association': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(188): error C3861: 'StaticGetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(188): error C3861: 'StaticGetCommandClassName': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(188): error C2065: 'Create': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(189): error C2065: 'cc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(189): error C2228: left of '.Register' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(189): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(189): error C2653: 'AssociationCommandConfiguration': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(189): error C3861: 'StaticGetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(189): error C3861: 'StaticGetCommandClassName': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(189): error C2065: 'Create': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(190): error C2065: 'cc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(190): error C2228: left of '.Register' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(190): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(190): error C2653: 'Basic': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(190): error C3861: 'StaticGetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(190): error C3861: 'StaticGetCommandClassName': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(190): error C2065: 'Create': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(191): error C2065: 'cc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(191): error C2228: left of '.Register' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(191): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(191): error C2653: 'BasicWindowCovering': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(191): error C3861: 'StaticGetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(191): error C3861: 'StaticGetCommandClassName': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(191): error C2065: 'Create': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(192): error C2065: 'cc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(192): error C2228: left of '.Register' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(192): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(192): error C2653: 'Battery': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(192): error C3861: 'StaticGetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(192): error C3861: 'StaticGetCommandClassName': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(192): error C2065: 'Create': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(193): error C2065: 'cc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(193): error C2228: left of '.Register' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(193): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(193): error C2653: 'CentralScene': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(193): error C3861: 'StaticGetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(193): error C3861: 'StaticGetCommandClassName': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(193): error C2065: 'Create': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(194): error C2065: 'cc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(194): error C2228: left of '.Register' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(194): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(194): error C2653: 'ClimateControlSchedule': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(194): error C3861: 'StaticGetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(194): error C3861: 'StaticGetCommandClassName': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(194): error C2065: 'Create': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(195): error C2065: 'cc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(195): error C2228: left of '.Register' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(195): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(195): error C2653: 'Clock': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(195): error C3861: 'StaticGetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(195): error C3861: 'StaticGetCommandClassName': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(195): error C2065: 'Create': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(196): error C2065: 'cc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(196): error C2228: left of '.Register' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(196): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(196): error C2653: 'Color': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(196): error C3861: 'StaticGetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(196): error C3861: 'StaticGetCommandClassName': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(196): error C2065: 'Create': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(197): error C2065: 'cc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(197): error C2228: left of '.Register' must have class/struct/union
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(197): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(197): error C2653: 'Configuration': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(197): error C3861: 'StaticGetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(197): error C3861: 'StaticGetCommandClassName': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(197): error C2065: 'Create': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(198): error C2065: 'cc': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\commandclasses.cpp(198): fatal error C1003: error count exceeds 100; stopping compilation
+  Configuration.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\configuration.cpp(279): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ControllerReplication.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(50): error C2653: 'Battery': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(54): error C2027: use of undefined type 'OpenZWave::Driver'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valueid.h(56): note: see declaration of 'OpenZWave::Driver'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(54): error C2061: syntax error: identifier 'MsgQueue'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(57): error C2065: 'RequestFlag_Dynamic': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(59): error C2065: '_queue': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(59): error C3861: 'RequestValue': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(69): error C2653: 'Battery': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(74): error C2027: use of undefined type 'OpenZWave::Driver'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valueid.h(56): note: see declaration of 'OpenZWave::Driver'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(74): error C2061: syntax error: identifier 'MsgQueue'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(82): error C3861: 'IsGetSupported': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(84): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(84): error C3861: 'GetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(84): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg' (compiling source file command_classes\Battery.cpp)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(85): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(85): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(85): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(86): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(86): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(87): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(87): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(87): error C3861: 'GetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(88): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(88): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(89): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(39): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(89): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(89): error C3861: 'GetDriver': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(89): error C2227: left of '->GetTransmitOptions' must point to class/struct/union/generic type
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(89): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(90): error C3861: 'GetDriver': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(90): error C2227: left of '->SendMsg' must point to class/struct/union/generic type
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(90): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(90): error C2065: '_queue': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(93): error C2653: 'Log': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(93): error C2065: 'LogLevel_Info': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(93): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(93): error C3861: 'Write': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(102): error C2653: 'Battery': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(119): error C2653: 'Log': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(119): error C2065: 'LogLevel_Info': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(119): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(119): error C3861: 'Write': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(121): error C3861: 'GetValue': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(135): error C2653: 'Battery': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(140): error C3861: 'GetNodeUnsafe': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(142): error C2027: use of undefined type 'OpenZWave::Node'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.h(40): note: see declaration of 'OpenZWave::Node'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(142): error C2227: left of '->CreateValueByte' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\battery.cpp(142): error C3861: 'GetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\controllerreplication.cpp(328): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  CRC16Encap.cpp
+  DeviceResetLocally.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(71): error C2653: 'Clock': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(75): error C2027: use of undefined type 'OpenZWave::Driver'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valueid.h(56): note: see declaration of 'OpenZWave::Driver'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(75): error C2061: syntax error: identifier 'MsgQueue'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(78): error C2065: 'RequestFlag_Dynamic': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(80): error C2065: '_queue': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(80): error C3861: 'RequestValue': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(90): error C2653: 'Clock': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(95): error C2027: use of undefined type 'OpenZWave::Driver'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valueid.h(56): note: see declaration of 'OpenZWave::Driver'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(95): error C2061: syntax error: identifier 'MsgQueue'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(98): error C3861: 'IsGetSupported': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(100): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(100): error C3861: 'GetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(100): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg' (compiling source file command_classes\Clock.cpp)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(101): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(101): error C2227: left of '->SetInstance' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(101): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(102): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(102): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(102): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(103): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(103): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\crc16encap.cpp(98): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\deviceresetlocally.cpp(77): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(104): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(104): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(104): error C3861: 'GetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(105): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(105): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(106): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(106): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(106): error C3861: 'GetDriver': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(106): error C2227: left of '->GetTransmitOptions' must point to class/struct/union/generic type
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(106): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(107): error C3861: 'GetDriver': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(107): error C2227: left of '->SendMsg' must point to class/struct/union/generic type
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(107): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(107): error C2065: '_queue': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(110): error C2653: 'Log': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(110): error C2065: 'LogLevel_Info': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(110): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(110): error C3861: 'Write': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(119): error C2653: 'Clock': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(134): error C2653: 'Log': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(134): error C2065: 'LogLevel_Warning': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(134): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(134): error C3861: 'Write': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(138): error C2653: 'Log': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(138): error C2065: 'LogLevel_Info': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(138): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(138): error C3861: 'Write': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(141): error C3861: 'GetValue': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(146): error C3861: 'GetValue': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(151): error C3861: 'GetValue': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(166): error C2653: 'Clock': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(175): error C3861: 'GetValue': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(176): error C3861: 'GetValue': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(177): error C3861: 'GetValue': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(188): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(188): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg' (compiling source file command_classes\Clock.cpp)
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(189): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(189): error C2227: left of '->SetInstance' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(189): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(190): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(190): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(190): error C3861: 'GetNodeId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(191): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(191): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(192): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(192): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(192): error C3861: 'GetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(193): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(193): error C2227: left of '->Append' must point to class/struct/union/generic type
+  DoorLock.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(194): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(194): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(195): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(195): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(196): error C2027: use of undefined type 'OpenZWave::Msg'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(40): note: see declaration of 'OpenZWave::Msg'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(196): error C2227: left of '->Append' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(196): error C3861: 'GetDriver': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(196): error C2227: left of '->GetTransmitOptions' must point to class/struct/union/generic type
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(196): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(197): error C3861: 'GetDriver': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(197): error C2227: left of '->SendMsg' must point to class/struct/union/generic type
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(197): note: type is 'unknown-type'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(197): error C2027: use of undefined type 'OpenZWave::Driver'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valueid.h(56): note: see declaration of 'OpenZWave::Driver'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(197): error C2065: 'MsgQueue_Send': undeclared identifier
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(221): error C2653: 'Clock': is not a class or namespace name
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(226): error C3861: 'GetNodeUnsafe': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(237): error C2027: use of undefined type 'OpenZWave::Node'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(41): note: see declaration of 'OpenZWave::Node'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(237): error C2227: left of '->CreateValueList' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(237): error C3861: 'GetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(238): error C2027: use of undefined type 'OpenZWave::Node'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(41): note: see declaration of 'OpenZWave::Node'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(238): error C2227: left of '->CreateValueByte' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(238): error C3861: 'GetCommandClassId': identifier not found
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(239): error C2027: use of undefined type 'OpenZWave::Node'
+  c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.h(41): note: see declaration of 'OpenZWave::Node'
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(239): error C2227: left of '->CreateValueByte' must point to class/struct/union/generic type
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\clock.cpp(239): error C3861: 'GetCommandClassId': identifier not found
+  DoorLockLogging.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\doorlock.cpp(591): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  EnergyProduction.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\doorlocklogging.cpp(377): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Hail.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\energyproduction.cpp(181): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Indicator.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\hail.cpp(69): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Language.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\indicator.cpp(167): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Lock.cpp
+  ManufacturerSpecific.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\language.cpp(165): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\lock.cpp(167): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Meter.cpp
+  MeterPulse.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\manufacturerspecific.cpp(445): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\meter.cpp(563): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  MultiCmd.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\meterpulse.cpp(144): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  MultiInstance.cpp
+  MultiInstanceAssociation.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\multicmd.cpp(78): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  NodeNaming.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\multiinstanceassociation.cpp(455): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  NoOperation.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\multiinstance.cpp(692): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\nodenaming.cpp(532): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Powerlevel.cpp
+  Proprietary.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\nooperation.cpp(77): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\proprietary.cpp(63): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Protection.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\powerlevel.cpp(506): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  SceneActivation.cpp
+  Security.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\protection.cpp(193): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  SensorAlarm.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\sceneactivation.cpp(79): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\security.cpp(325): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  SensorBinary.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\sensoralarm.cpp(216): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  SensorMultilevel.cpp
+  SwitchAll.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\sensorbinary.cpp(244): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  SwitchBinary.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\switchall.cpp(231): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\sensormultilevel.cpp(461): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  SwitchMultilevel.cpp
+  SwitchToggleBinary.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\switchbinary.cpp(197): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  SwitchToggleMultilevel.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\switchmultilevel.cpp(632): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\switchtogglebinary.cpp(158): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ThermostatFanMode.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\switchtogglemultilevel.cpp(202): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ThermostatFanState.cpp
+  ThermostatMode.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\thermostatfanmode.cpp(360): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ThermostatOperatingState.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\thermostatfanstate.cpp(159): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ThermostatSetpoint.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\thermostatmode.cpp(402): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\thermostatoperatingstate.cpp(155): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  TimeParameters.cpp
+  UserCode.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\thermostatsetpoint.cpp(324): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\timeparameters.cpp(244): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\usercode.cpp(356): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Version.cpp
+  WakeUp.cpp
+  ZWavePlusInfo.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\version.cpp(264): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\zwaveplusinfo.cpp(197): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\wakeup.cpp(507): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Driver.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\command_classes\color.cpp(44): fatal error C1083: Cannot open include file: 'tinyxml.h': No such file or directory
+  Group.cpp
+  Manager.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\group.cpp(558): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\driver.cpp(6917): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Msg.cpp
+  Node.cpp
+  Notification.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\manager.cpp(4749): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\msg.cpp(325): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Options.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\node.cpp(3521): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Controller.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\notification.cpp(236): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Event.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\options.cpp(613): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  FileOps.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\controller.cpp(69): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  HidController.cpp
+  Log.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\fileops.cpp(108): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\event.cpp(110): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Mutex.cpp
+  SerialController.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\hidcontroller.cpp(542): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\log.cpp(342): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Stream.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\serialcontroller.cpp(188): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Thread.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\mutex.cpp(104): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  TimeStamp.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\thread.cpp(126): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Wait.cpp
+  EventImpl.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\stream.cpp(228): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\timestamp.cpp(109): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  FileOpsImpl.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\wait.cpp(185): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\windows\eventimpl.cpp(103): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  LogImpl.cpp
+  MutexImpl.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\windows\fileopsimpl.cpp(70): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  SerialControllerImpl.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\windows\logimpl.cpp(374): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\windows\muteximpl.cpp(115): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ThreadImpl.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\windows\serialcontrollerimpl.cpp(411): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  TimeStampImpl.cpp
+  WaitImpl.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\windows\timestampimpl.cpp(115): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\windows\threadimpl.cpp(159): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Scene.cpp
+  Utils.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\platform\windows\waitimpl.cpp(135): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Value.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\utils.cpp(138): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ValueBool.cpp
+  ValueButton.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\scene.cpp(482): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ValueByte.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebutton.cpp(121): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebool.cpp(162): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\value.cpp(749): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuebyte.cpp(187): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ValueDecimal.cpp
+  ValueInt.cpp
+  ValueList.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuedecimal.cpp(148): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valueint.cpp(189): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuelist.cpp(393): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ValueRaw.cpp
+  ValueSchedule.cpp
+  ValueShort.cpp
+  ValueStore.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valueraw.cpp(286): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valueschedule.cpp(366): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuestore.cpp(205): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valueshort.cpp(192): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ValueString.cpp
+  vers.cpp
+  ZWSecurity.cpp
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\vers.cpp(6): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\value_classes\valuestring.cpp(146): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+c:\users\junyen huang\documents\visual studio 2015\projects\emperszc120test\openzwave\zwsecurity.cpp(388): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
